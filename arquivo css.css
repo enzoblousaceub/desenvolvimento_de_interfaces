@@ -1,0 +1,34 @@
+html{
+    font-size: 16px;
+    margin: 15px;
+}
+.div1{
+    border-left: solid red 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    margin: 25px;
+    padding: 25px;
+}
+#paragrafo{
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+}
+.div2{
+    background-color: lightgreen;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    border-left: solid green 5px;
+    text-align: justify;
+    margin: 25px;
+    padding: 25px;
+}
+.div3{
+    background-color: rgba(50, 50, 93, 0.25);
+    border-left: rgb(rgb(24, 75, 12), green, blue);
+    color:lightcyan;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-size: 2em;
+}
